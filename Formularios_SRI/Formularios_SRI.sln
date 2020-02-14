@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formularios_SRI", "Formularios_SRI.csproj", "{CADD9ADD-5312-4F36-9702-50117C35EF85}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FORMULARIOS-SETUP", "..\FORMULARIOS-SETUP\FORMULARIOS-SETUP.vdproj", "{D02F8EBE-53B1-4A55-AD9F-267274AD2A42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADD9ADD-5312-4F36-9702-50117C35EF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADD9ADD-5312-4F36-9702-50117C35EF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADD9ADD-5312-4F36-9702-50117C35EF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADD9ADD-5312-4F36-9702-50117C35EF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D02F8EBE-53B1-4A55-AD9F-267274AD2A42}.Debug|Any CPU.ActiveCfg = Debug
+		{D02F8EBE-53B1-4A55-AD9F-267274AD2A42}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFBE7CD3-ED5F-489E-9D23-ED176ADB40EC}
+	EndGlobalSection
+EndGlobal
